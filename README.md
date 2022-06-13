@@ -9,4 +9,4 @@
 - ✍️  I regularly share my learnings through my blog: [Nimblegeek](https://www.nimblegeek.com/)
 - 🎶 I'm a hobby Instrumentalist playing the violin 🎻  the piano 🎹  and learning the 🎸 
 - ☕️  I'm a coffee lover dreaming of an espresso machine 
-- ⚡  Fun fact: I love being upside down 🤸🏽‍♂️ 
+- ⚡  Fun fact: I'm the weirdo who likes to squat, roll and being upside down 🤸🏽‍♂️ 
