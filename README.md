@@ -7,4 +7,4 @@
 - 🌱 I’m learning Java and JavaScript 
 - 👯 I’m looking to collaborate with other curious coders and hungry learners
 - ✍️  I regularly share my learnings through my blog: [Nimblegeek]([url](https://www.nimblegeek.com/)) 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love being upside down 🤸🏽‍♂️ 
