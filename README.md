@@ -31,7 +31,7 @@
 ✍️ Check out my blog 
 
  <a href="https://www.nimblegeek.com/">
-  <img src="https://img.shields.io/badge/Nimblegeek-grey?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
+  <img src="https://img.shields.io/badge/Nimblegeek-purple?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
  </a>
 
 ---
@@ -39,4 +39,6 @@
 ### :fire: My Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nimblegeek&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimblegeek&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
