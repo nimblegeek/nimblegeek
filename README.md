@@ -1,4 +1,4 @@
-# Hey, I'm Jonas 👋
+# Hey, I'm Jonas 👋🏽
 ***also known as The Nimble Geek***
 
 ## I'm a Project Manager turning Software Developer. 
