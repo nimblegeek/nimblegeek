@@ -27,9 +27,9 @@
 - ⚡ Fun fact: I'm the weirdo who likes to squat, roll and being upside down 🤸🏽‍♂️ 
 
 
-
+<h3> 
 ✍️ Check out my blog 
-
+</h3>
  <a href="https://www.nimblegeek.com/">
   <img src="https://img.shields.io/badge/Nimblegeek-purple?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
  </a>
