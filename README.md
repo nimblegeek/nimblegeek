@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/nimblegeek">
-<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
+    
+
   </a>
 </div>
 
@@ -14,6 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="600" height="300"/>
 </div>
+
 
 
 <h3> I'm a Project Manager turning Software Developer. </h3>
