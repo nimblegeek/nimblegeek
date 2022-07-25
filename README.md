@@ -7,17 +7,15 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
     
 
-</a>
+  </a>
 </div>
 
 
 <h1 align="center">Hey, I'm Jonas 👋🏽 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP/giphy.gif" width="600" height="300"/>
+  <img src=" https://giphy.com/embed/R03zWv5p1oNSQd91EPgiphy.gif" width="600" height="300"/>
 </div>
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
 
 <h3> I'm a Project Manager turning Software Developer. </h3>
   
