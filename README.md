@@ -21,9 +21,9 @@
 <h3 align="center"> I'm a Project Manager turning Software Developer. </h3>
   
 
-<div text-align="center">
- <ul text-align="center" margin="0 auto" width="620px">
-  <li style="list-style-position: center">
+<div style="text-align:center">
+ <ul display="inline-block" text-align="center" padding="0">
+  <li>
    🔭 I’m, together with my team, on a mission <a href="https://investor.nordea.se/nora-pension/public/">to make pension easier</a> for Swedes
    </li> 
    <li>
