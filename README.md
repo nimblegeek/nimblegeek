@@ -14,10 +14,8 @@
 <h1 align="center">Hey, I'm Jonas 👋🏽 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="600" height="300"/>
+  <img src=" https://giphy.com/embed/R03zWv5p1oNSQd91EPgiphy.gif" width="600" height="300"/>
 </div>
-
-
 
 <h3> I'm a Project Manager turning Software Developer. </h3>
   
