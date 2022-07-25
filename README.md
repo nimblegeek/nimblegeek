@@ -14,7 +14,7 @@
 <h1 align="center">Hey, I'm Jonas 👋🏽 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400" height="300"/>
 </div>
 
 
