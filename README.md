@@ -22,12 +22,12 @@
   
 
 <div text-align="center">
- <ul text-align="center">
-  <li>
+ <ul text-align="center" margin="0 auto" width="620px">
+  <li style="list-style-position: center">
    🔭 I’m, together with my team, on a mission <a href="https://investor.nordea.se/nora-pension/public/">to make pension easier</a> for Swedes
    </li> 
    <li>
-   🌱 I’m learning Java and JavaScript 
+   🌱 I’m on a mission to become a full stack developer, currently learning Java and JavaScript as main languages
    </li>
    <li>
    👯 I’m looking to collaborate with other curious coders and hungry learners 
