@@ -18,25 +18,43 @@
 </div>
 
 
-<h3> I'm a Project Manager turning Software Developer. </h3>
+<h3 align="center"> I'm a Project Manager turning Software Developer. </h3>
   
-- 🔭 I’m, together with my team, on a mission to [make pension easier](https://investor.nordea.se/nora-pension/public/) for Swedes
-- 🌱 I’m learning Java and JavaScript 
-- 👯 I’m looking to collaborate with other curious coders and hungry learners 
-- ✍️ I enjoy sharing my learnings on my blog: [Nimblegeek](https://www.nimblegeek.com/) 
-- 🎶 I'm a hobby Instrumentalist playing the violin 🎻  the piano 🎹  and learning the 🎸 
-- ☕️ I'm a coffee lover dreaming of an espresso machine  
-- ⚡ Fun fact: I'm the weirdo who likes to squat, roll and being upside down 🤸🏽‍♂️ 
 
+<div text-align="center">
+ <ul text-align="center">
+  <li>
+   🔭 I’m, together with my team, on a mission <a href="https://investor.nordea.se/nora-pension/public/">to make pension easier</a> for Swedes
+   </li> 
+   <li>
+   🌱 I’m learning Java and JavaScript 
+   </li>
+   <li>
+   👯 I’m looking to collaborate with other curious coders and hungry learners 
+   </li>
+   <li>
+     ✍️ I enjoy sharing my learnings on my blog: <a href="https://www.nimblegeek.com/">Nimblegeek</a>
+   </li>
+   <li>
+   🎶 I'm a hobby Instrumentalist playing the violin 🎻  the piano 🎹  and learning the 🎸 
+   </li>
+   <li>
+   ☕️ I'm a coffee lover dreaming of an espresso machine  
+   </li>
+   <li> 
+   ⚡ Fun fact: I'm the weirdo who likes to squat, roll and being upside down 🤸🏽‍♂️ 
+   </li>
+  </ul>
+  </div>
 
-<h3> 
+<h3 align="center"> 
 ✍️ Check out my blog 
 </h3>
+<div align="center">
  <a href="https://www.nimblegeek.com/">
   <img src="https://img.shields.io/badge/Nimblegeek-purple?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
  </a>
-
----
+</div>
 
 ### :fire: My Stats 
 
