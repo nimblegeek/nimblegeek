@@ -18,7 +18,7 @@
 </div>
 
 
-<h3 align="center"> I'm a Project Manager turning Software Developer. </h3>
+<h3 align="center"> I'm a Project Manager turning Full-Stack Developer. </h3>
   
 
 <div style="text-align:center">
