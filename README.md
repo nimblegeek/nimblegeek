@@ -26,9 +26,9 @@
 
 <div align="center">
   <h3 align="center">
-When I'm not coding or writing I nurture my heart, body & soul by </h3>
-  👧🏼 👦🏻 👧🏽 👩🏻  Taking care of my family of five <br>
-   🎶 Playing instruments, mostly the piano <br>
+When I'm not coding... </h3>
+  👧🏼 👦🏻 👧🏽 👩🏻  I'm hanging out with my family of five <br>
+   🎻 🎹 🎸  Playing instruments, mostly the piano at the moment <br>
   🤸🏽‍♂️ 🐒 Squatting & spending time upside down <br>
   </div>
 
