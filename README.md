@@ -1,12 +1,4 @@
 
-<div align= "center" id="badges">
-  <a href="https://www.linkedin.com/in/jonas-achouri-sihl%C3%A9n-bb5b2a33/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/nimblegeek">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
-    
-
 </a>
 </div>
 
@@ -46,6 +38,20 @@
    </li>
   </ul>
   </div>
+
+<h3 align="center"> 
+Join me on socials
+</h3>
+
+
+<div align= "center" id="badges">
+  <a href="https://www.linkedin.com/in/jonas-achouri-sihl%C3%A9n-bb5b2a33/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/nimblegeek">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
+    
+
 
 <h3 align="center"> 
 ✍️ Check out my blog 
