@@ -1,43 +1,38 @@
 
-</a>
+<div align="center">
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="450" height="400"/>
+</div>
+
 </div>
 
 
 <h1 align="center">Hey, I'm Jonas 👋🏽 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="450" height="400"/>
-</div>
 
-
-<h3 align="center"> I'm a Project Manager turning Full-Stack Developer. </h3>
-  
-
-<div style="text-align:center">
- <ul display="inline-block" text-align="center" padding="0">
-  <li>
-   🔭 I’m, together with my team, on a mission <a href="https://investor.nordea.se/nora-pension/public/">to make pension easier</a> for Swedes
-   </li> 
-   <li>
-   🌱 I’m on a mission to become a full stack developer, currently learning Java and JavaScript as main languages
-   </li>
-   <li>
-   👯 I’m looking to collaborate with other curious coders and hungry learners 
-   </li>
-   <li>
-     ✍️ I enjoy sharing my learnings on my blog: <a href="https://www.nimblegeek.com/">Nimblegeek</a>
-   </li>
-   <li>
-   🎶 I'm a hobby Instrumentalist playing the violin 🎻  the piano 🎹  and learning the 🎸 
-   </li>
-   <li>
-   ☕️ I'm a coffee lover dreaming of an espresso machine  
-   </li>
-   <li> 
-   ⚡ Fun fact: I'm the weirdo who likes to squat, roll and being upside down 🤸🏽‍♂️ 
-   </li>
-  </ul>
+  <div align="center">
+  I'm a Project Manager turning Full-stack Software Engineer. Currently I'm learning Java & Spring and the MEAN stack while working as a Scrum Master in the Financial Services industry. 
   </div>
+
+<div align="center">
+  <h3 align="center">
+    My current focus is
+  </h3>
+  </div>
+
+ <div align="center">
+🔭 I’m, together with my team, on a mission <a href="https://investor.nordea.se/nora-pension/public/">to make pensions easy</a> for Swedes <br>
+    ✍️ Writing articles and newsletters on my blog <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
+  </div>
+
+<div align="center">
+  <h3 align="center">
+When I'm not coding or writing I nurture my heart, body & soul by </h3>
+  👧🏼 👦🏻 👧🏽 👩🏻  Taking care of my family of five <br>
+   🎶 Playing instruments, mostly the piano <br>
+  🤸🏽‍♂️ 🐒 Squatting & spending time upside down <br>
+  </div>
+
+
 
 <h3 align="center"> 
 Join me on socials
@@ -51,10 +46,11 @@ Join me on socials
   <a href="https://twitter.com/nimblegeek">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
     
+   
 
 
 <h3 align="center"> 
-✍️ Check out my blog 
+Check out my blog 
 </h3>
 <div align="center">
  <a href="https://www.nimblegeek.com/">
@@ -62,8 +58,10 @@ Join me on socials
  </a>
 </div>
 
-### :fire: My Stats 
+### My Stats 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimblegeek&theme=tokyonight&show_icons=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimblegeek&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    
+       
