@@ -10,7 +10,7 @@
 
 
   <div align="center">
-  I'm a Project Manager turning Full-stack Software Engineer. Currently I'm learning Java & Spring and the MEAN stack while working as a Scrum Master in the Financial Services industry. 
+  I'm a Project Manager turning Full-stack Software Developer. Currently I'm learning Java & SpringBoot along with JavaScript and the MEAN stack while working as a Scrum Master in the Financial Services industry. 
   </div>
 
 <div align="center">
