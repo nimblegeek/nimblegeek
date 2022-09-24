@@ -10,7 +10,7 @@
 
 
   <div align="center">
-  I'm a Project Manager turning Full-stack Software Developer. Currently I'm learning Java & SpringBoot along with JavaScript and the MEAN stack while working as a Scrum Master in the Financial Services industry. 
+  I'm a Project Manager turning Software Developer. Currently I'm learning Java & SpringBoot along with JavaScript and the MEAN stack while working as a Scrum Master in the Financial Services industry. 
   </div>
 
 <div align="center">
@@ -27,9 +27,9 @@
 <div align="center">
   <h3 align="center">
 When I'm not coding... </h3>
-  👧🏼 👦🏻 👧🏽 👩🏻  I'm hanging out with my family of five <br>
-   🎻 🎹 🎸  Playing instruments, mostly the piano at the moment <br>
-  🤸🏽‍♂️ 🐒 Squatting & spending time upside down <br>
+  👧🏼 👦🏻 👧🏽 👩🏻  I'm hanging out and growing with my family <br>
+   🎻 🎹 🎸  Playing instruments, mostly the piano at the moment composing my own instrumental music <br>
+  🤸🏽‍♂️ 🐒 Squatting, rolling around and growing as a beginner in martial arts 🥋  <br>
   </div>
 
 
