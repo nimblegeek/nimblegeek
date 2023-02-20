@@ -29,7 +29,7 @@
 When I'm not coding... </h3>
   👧🏼 👦🏻 👧🏽 👩🏻  I'm hanging out and growing with my family <br>
    🎻 🎹 🎸  Playing instruments, mostly the piano at the moment composing my own instrumental music <br>
-  🤸🏽‍♂️ 🐒 Squatting, rolling around and growing as a beginner in brazilian jiu jitsu 🥋  <br>
+  🤸🏽‍♂️ 🐒 Squatting, rolling around and growing as a white-belt in brazilian jiu jitsu 🥋  <br>
   </div>
 
 
