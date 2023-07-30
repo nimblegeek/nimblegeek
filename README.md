@@ -10,7 +10,7 @@
 
 
   <div align="center">
-  I'm a Project Manager turning Software Developer. Currently I'm learning Java & SpringBoot along with JavaScript and the MEAN stack while working as a Scrum Master in the Financial Services industry. 
+  I'm a self-educated developer whith too many passion projects.
   </div>
 
 <div align="center">
