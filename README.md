@@ -1,31 +1,28 @@
 
-<div align="center">
+<h3 align="center">Hey, I'm Jonas 👋🏽 </h1>
+
+<div align="">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
 </div>
 
-
-
-<h1 align="center">Hey, I'm Jonas 👋🏽 </h1>
-
-
-  <div align="center">
-  I'm a self-educated developer with too many passion projects. I 
+  <div align="">
+  I'm a self-educated developer with too many passion projects. 
   </div>
 
-<div align="center">
-  <h3 align="center">
+<div align="">
+  <h3 align="">
     My current focus is
   </h3>
   </div>
 
- <div align="center">
+ <div align="">
 🚀 <a href="https://investor.nordea.se/nora-pension/public/">Making pensions easy</a> for Swedes <br>
     ✍️ Writing articles and newsletters on my blog <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
   </div>
 
-<div align="center">
-  <h3 align="center">
-When I'm not coding... </h3>
+<div align="">
+  <h3 align="">
+Fun facts </h3>
   👧🏼 👦🏻 👧🏽 👩🏻  I'm exploring the world with my family of 3 kids and my wife <br>
    🎻 🎹 🎸  Playing instruments, mostly the piano at the moment composing my own instrumental music <br>
   🤸🏽‍♂️ 🐒 Squatting, rolling, hanging as well as growing as a brazilian jiu jitsu practitioner 🥋  <br>
@@ -33,12 +30,12 @@ When I'm not coding... </h3>
 
 
 
-<h3 align="center"> 
+<h3 align=""> 
 Join me on socials
 </h3>
 
 
-<div align= "center" id="badges">
+<div align= "" id="badges">
   <a href="https://www.linkedin.com/in/jonas-achouri-sihl%C3%A9n-bb5b2a33/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -46,10 +43,10 @@ Join me on socials
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
     
 
-<h3 align="center"> 
+<h3 align=""> 
 Check out my blog 
 </h3>
-<div align="center">
+<div align="">
  <a href="https://www.nimblegeek.com/">
   <img src="https://img.shields.io/badge/Nimblegeek-purple?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
  </a>
