@@ -3,18 +3,11 @@
 
 <div align="">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
-</div>
+</div> <br>
 
-  <div align="">
-  I'm a self-educated developer with too many passion projects. 
-  </div>
+I'm just a guy who wants to learn more about how to build cool projects, how to make the developer workflow better, and ultimately craft awesome software. 
 
-<div align="">
-  <h3 align="">
-    My current focus is
-  </h3>
-  </div>
-
+### My current focus is
  <div align="">
 🚀 <a href="https://investor.nordea.se/nora-pension/public/">Making pensions easy</a> for Swedes <br>
     ✍️ Writing articles and newsletters on my blog <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
