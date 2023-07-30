@@ -23,28 +23,14 @@
 <div align="">
   <h3 align="">
 Fun facts </h3>
-  👧🏼 👦🏻 👧🏽 👩🏻  I'm exploring the world with my family of 3 kids and my wife <br>
-   🎻 🎹 🎸  Playing instruments, mostly the piano at the moment composing my own instrumental music <br>
-  🤸🏽‍♂️ 🐒 Squatting, rolling, hanging as well as growing as a brazilian jiu jitsu practitioner 🥋  <br>
+  👧🏼 👦🏻 👧🏽 👩🏻  Exploring the world with my family of 3 kids and wife <br>
+   🎻 🎹 🎸 Playing music, was taught the violing and the piano as a kid, today I am trying to learn the acoustic guitar <br>
+  🤸🏽‍♂️ 🐒 Squatting, rolling, hangin,g as well as growing as aBraziliannjiu-jitsuu practitioner 🥋  <br>
   </div>
 
 
-
 <h3 align=""> 
-Join me on socials
-</h3>
-
-
-<div align= "" id="badges">
-  <a href="https://www.linkedin.com/in/jonas-achouri-sihl%C3%A9n-bb5b2a33/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/nimblegeek">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
-    
-
-<h3 align=""> 
-Check out my blog 
+Writings at:
 </h3>
 <div align="">
  <a href="https://www.nimblegeek.com/">
