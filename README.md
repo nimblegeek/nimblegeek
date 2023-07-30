@@ -20,17 +20,15 @@
     ✍️ Writing articles and newsletters on my blog <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
   </div>
 
-<div align="">
-  <h3 align="">
-Fun facts </h3>
-  - Exploring the world with my family of 3 kids and wife 👧🏼 👦🏻 👧🏽 👩🏻  <br>
-  - Playing music, was taught the violing and the piano as a kid, today I am trying to learn the acoustic guitar 🎻 🎹 🎸 <br>
-  - Squatting, rolling, hangin,g as well as growing as aBraziliannjiu-jitsuu practitioner 🥋 🤸🏽‍♂️ 🐒  <br>
-  </div>
+
+### Fun facts 
+  - Exploring the world with my family of 3 kids and wife 👧🏼 👦🏻 👧🏽 👩🏻 
+  - Playing music, was taught the violin and the piano as a kid, today I am trying to learn the acoustic guitar 🎻 🎹 🎸 
+  - Squatting, rolling, hanging, as well as growing as a Brazilian jiu-jitsu practitioner 🥋 🤸🏽‍♂️ 🐒  
 
 
 <h3 align=""> 
-Writings at:
+Personal blog:
 </h3>
 <div align="">
  <a href="https://www.nimblegeek.com/">
