@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="450" height="400"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
 </div>
 
 </div>
@@ -10,7 +10,7 @@
 
 
   <div align="center">
-  I'm a self-educated developer withh too many passion projects. 
+  I'm a self-educated developer with too many passion projects. I 
   </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 <div align="center">
   <h3 align="center">
 When I'm not coding... </h3>
-  👧🏼 👦🏻 👧🏽 👩🏻  I'm exploring the world with my family of 3 kids and my wifee <br>
+  👧🏼 👦🏻 👧🏽 👩🏻  I'm exploring the world with my family of 3 kids and my wife <br>
    🎻 🎹 🎸  Playing instruments, mostly the piano at the moment composing my own instrumental music <br>
   🤸🏽‍♂️ 🐒 Squatting, rolling, hanging as well as growing as a brazilian jiu jitsu practitioner 🥋  <br>
   </div>
