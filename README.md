@@ -1,5 +1,5 @@
 
-<h3 align="center">Hey, I'm Jonas 👋🏽 </h1>
+### Hey, I'm Jonas 👋🏽 
 
 <div align="">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
