@@ -23,9 +23,9 @@
 <div align="">
   <h3 align="">
 Fun facts </h3>
-  👧🏼 👦🏻 👧🏽 👩🏻  Exploring the world with my family of 3 kids and wife <br>
-   🎻 🎹 🎸 Playing music, was taught the violing and the piano as a kid, today I am trying to learn the acoustic guitar <br>
-  🤸🏽‍♂️ 🐒 Squatting, rolling, hangin,g as well as growing as aBraziliannjiu-jitsuu practitioner 🥋  <br>
+  - Exploring the world with my family of 3 kids and wife 👧🏼 👦🏻 👧🏽 👩🏻  <br>
+  - Playing music, was taught the violing and the piano as a kid, today I am trying to learn the acoustic guitar 🎻 🎹 🎸 <br>
+  - Squatting, rolling, hangin,g as well as growing as aBraziliannjiu-jitsuu practitioner 🥋 🤸🏽‍♂️ 🐒  <br>
   </div>
 
 
