@@ -10,7 +10,7 @@
 
 
   <div align="center">
-  I'm a self-educated developer whith too many passion projects.
+  I'm a self-educated developer withh too many passion projects. 
   </div>
 
 <div align="center">
@@ -20,16 +20,16 @@
   </div>
 
  <div align="center">
-🔭 I’m, together with my team, on a mission <a href="https://investor.nordea.se/nora-pension/public/">to make pensions easy</a> for Swedes <br>
+🚀 <a href="https://investor.nordea.se/nora-pension/public/">Making pensions easy</a> for Swedes <br>
     ✍️ Writing articles and newsletters on my blog <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
   </div>
 
 <div align="center">
   <h3 align="center">
 When I'm not coding... </h3>
-  👧🏼 👦🏻 👧🏽 👩🏻  I'm hanging out and growing with my family <br>
+  👧🏼 👦🏻 👧🏽 👩🏻  I'm exploring the world with my family of 3 kids and my wifee <br>
    🎻 🎹 🎸  Playing instruments, mostly the piano at the moment composing my own instrumental music <br>
-  🤸🏽‍♂️ 🐒 Squatting, rolling around and growing as a white-belt in brazilian jiu jitsu 🥋  <br>
+  🤸🏽‍♂️ 🐒 Squatting, rolling, hanging as well as growing as a brazilian jiu jitsu practitioner 🥋  <br>
   </div>
 
 
