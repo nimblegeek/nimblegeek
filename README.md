@@ -1,9 +1,8 @@
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
 </div>
 
-</div>
 
 
 <h1 align="center">Hey, I'm Jonas 👋🏽 </h1>
