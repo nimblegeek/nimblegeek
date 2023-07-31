@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
 </div> <br>
 
-I'm just a guy who wants to learn more about how to build cool projects, how to make the developer workflow better, and ultimately craft awesome software. 
+I'm just a guy who wants to learn more about how to build cool projects, be productive, and ultimately craft awesome software. 
 
 ### My current focus is
  <div align="">
