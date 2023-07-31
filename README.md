@@ -1,5 +1,5 @@
 
-### Hey, I'm Jonas 👋🏽 aka The Nimblegeek
+### Hey, I'm Jonas 👋🏽, The Nimblegeek
 
 <div align="">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
