@@ -9,7 +9,7 @@ I'm just a guy who wants to learn more about how to build cool projects, be prod
 
 ### My current focus is
  <div align="">
-🚀 <a href="https://www.nordea.com/en">Working as platform engineer at Nordea bank</a> in Sweden <br>
+🚀  Working as a platform engineer at <a href="https://www.nordea.com/en">Nordea bank in Sweden</a> <br>
     ✍️ Writing articles and newsletters on my blog <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
   </div>
 
