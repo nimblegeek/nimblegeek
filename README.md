@@ -1,23 +1,23 @@
 
-### TheNimblegeek
+## TheNimblegeek
 
 <div align="">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
 </div> <br>
 
-I'm just a guy who wants to learn more about how to build cool projects, be productive, and ultimately craft awesome software. 
+Hey, I'm Jonas and I'm a guy who loves to learn how to build cool projects, be productive, and ultimately craft awesome software. 
 
-### My current focus is
+### Day job and writings
  <div align="">
 🚀  Working as a platform engineer at <a href="https://www.nordea.com/en">Nordea bank in Sweden</a> <br>
     ✍️ Writing articles at <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
   </div>
 
 
-### Fun facts 
+### Family and hobbies
   - Exploring the world with my family of 3 kids and wife 👧🏼 👦🏻 👧🏽 👩🏻 
-  - Playing music, was taught the violin and the piano as a kid, today I am trying to learn the acoustic guitar 🎻 🎹 🎸 
-  - Squatting, rolling, hanging, as well as growing as a Brazilian jiu-jitsu practitioner 🥋 🤸🏽‍♂️ 🐒  
+  - Instrumentalist trained with the violin and the piano as a kid. Learning the guitar in my 40s 🎻 🎹 🎸 
+  - Brazilian JiuJitsu hobbyist - earned my blue belt within a year as a father of 3 🥋 
 
 
 <h3 align=""> 
