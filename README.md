@@ -17,7 +17,7 @@ Hey, I'm Jonas Achouri Sihlén and I'm a guy who loves to learn how to build coo
 ### Family and hobbies
   - Exploring the world with my family of 3 kids and wife 👧🏼 👦🏻 👧🏽 👩🏻 
   - Instrumentalist trained with the violin and the piano as a kid. Learning the guitar in my 40s 🎻 🎹 🎸 
-  - Brazilian JiuJitsu hobbyist - earned my blue belt within a year as a father of 3 🥋 
+  - Brazilian JiuJitsu hobbyist - earned my blue belt within a year 🥋 
 
 
 <h3 align=""> 
