@@ -10,7 +10,8 @@ Hey, I'm Jonas Achouri Sihlén and I'm a guy who loves to learn how to build coo
 ### Day job and writings
  <div align="">
 🚀  Working as a platform engineer at <a href="https://www.nordea.com/en">Nordea bank in Sweden</a> <br>
-    ✍️ Writing articles at <a href="https://www.nimblegeek.com/">Nimblegeek.com</a> <br>
+    ✍️ Crafting weekly newsletters on <a href="https://www.nimblegeek.com/](https://thenimblegeek.ck.page
+">digital writing and technology</a> <br>
   </div>
 
 
