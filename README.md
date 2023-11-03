@@ -20,14 +20,6 @@ Hey, I'm Jonas Achouri Sihlén and I'm a guy who loves to learn how to build coo
   - Brazilian JiuJitsu hobbyist - earned my blue belt within a year 🥋 
 
 
-<h3 align=""> 
-Personal blog:
-</h3>
-<div align="">
- <a href="https://www.nimblegeek.com/">
-  <img src="https://img.shields.io/badge/Nimblegeek-purple?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
- </a>
-</div>
 
 ### My Stats 
 
