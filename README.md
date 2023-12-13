@@ -5,9 +5,11 @@
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/forest_sunset.png" alt="TheNimblegeek" style="max-width: 100%; max-height: 50px;">
 </div> <br>
 
-Hey, I'm Jonas Achouri Sihlén, casually called TheNimblegeek in tech and movement circles. I work as a platform engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. My tech toolbox includes Kubernetes, Ansible and Linux. Flavoured with proficiency with Python, Java and SpringBoot and a slash of JavaScript.
+Hey, I'm Jonas Achouri Sihlén, casually called TheNimblegeek in tech and in movement circles. I work as a Platform Engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. My tech toolbox includes Kubernetes, Ansible and Linux. Flavoured with proficiency with Python, Java, SpringBoot and a slash of JavaScript.
 
 I'm a guy who loves to learn how to build cool projects, be productive, and ultimately craft awesome software. I started to learn to code at 39 while raising a family of 5. 
+
+Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. I've decided to focus on growing as an online writer alongside my 9-5 as a Platform Engineer. I am exploring, learning about wider topics I found interesting and useful to share. This is a lifelong journey.
 
 
 ## Useful links
