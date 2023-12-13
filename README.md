@@ -2,7 +2,7 @@
 # TheNimblegeek
 
 <div align="">
-  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/forest_sunset.png" alt="TheNimblegeek" style="max-width: 100%">
+  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/forest_sunset.png" alt="TheNimblegeek" style="max-width: 100px; height: 100px;">
 </div> <br>
 
 Hey, I'm Jonas Achouri Sihlén, 
