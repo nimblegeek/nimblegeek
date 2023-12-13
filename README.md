@@ -15,6 +15,10 @@ Writing is not only a passion of mine, but a necessity for me to think and solve
 ## Useful links
 -- 
 
+
+## Presence on Platforms Online
+[Posting on X](https://twitter.com/nimblegeek), [Sharing thoughts on LinkedIn](https://www.linkedin.com/in/jonasasihlen/), [Writing on Medium](https://nimblegeek.medium.com/).
+
 ## Books I like to re-read
 
 
