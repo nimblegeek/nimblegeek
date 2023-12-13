@@ -15,7 +15,7 @@ I'm a guy who loves to learn how to build cool projects, be productive, and ulti
 
 ## Books I like to re-read
 -- 
-[The Bible]([(https://www.bible.com/)]), [Antifragility]([url](https://www.amazon.se/-/en/Nassim-Nicholas-Taleb/dp/0812979680)) and the whole [Incerto series]([url](https://www.amazon.com/Incerto-5-book-series/dp/B07WZK6Z9N)), [Homo Ludens]([url](https://www.amazon.se/-/en/Johan-Huizinga/dp/1621389995)), [A Time For Everything]([url](https://www.amazon.com/Time-Everything-Karl-Ove-Knausgaard/dp/098003308X)), [Surely You're Joking Mr. Feynman]([url](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)), [Life 3.0]([url](https://www.amazon.se/-/en/Max-Tegmark/dp/1101946598)), [It doesn't have to be crarzy at work]([url](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780))...
+[The Bible](https://www.bible.com/), [Antifragility]([url](https://www.amazon.se/-/en/Nassim-Nicholas-Taleb/dp/0812979680)) and the whole [Incerto series]([url](https://www.amazon.com/Incerto-5-book-series/dp/B07WZK6Z9N)), [Homo Ludens]([url](https://www.amazon.se/-/en/Johan-Huizinga/dp/1621389995)), [A Time For Everything]([url](https://www.amazon.com/Time-Everything-Karl-Ove-Knausgaard/dp/098003308X)), [Surely You're Joking Mr. Feynman]([url](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)), [Life 3.0]([url](https://www.amazon.se/-/en/Max-Tegmark/dp/1101946598)), [It doesn't have to be crarzy at work]([url](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780))...
 
 ## Hobbies & interests
 --
