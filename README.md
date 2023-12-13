@@ -2,7 +2,7 @@
 # TheNimblegeek
 
 <div align="">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="TheNimblegeek" style="max-width: 100%">
+  <img src="" alt="TheNimblegeek" style="max-width: 100%">
 </div> <br>
 
 Hey, I'm Jonas Achouri Sihlén, 
