@@ -9,7 +9,7 @@ Hey, I'm Jonas Achouri Sihlén, casually called TheNimblegeek in tech and in mov
 
 I'm a guy who loves to learn how to build cool projects, be productive, and ultimately craft awesome software. I started to learn to code at 39 while raising a family of 5 and growing as an online writer. I like to write.
 
-Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. I've decided to focus on growing as an online writer alongside my 9-5 as a Platform Engineer. I am exploring, learning about wider topics I found interesting and useful to share. This is a lifelong journey.
+Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. I've decided to focus on growing as an online writer alongside my 9-5. As I'm exploring wider topics I found interesting I wite and share the ones I find useful to share. This is a lifelong journey.
 
 
 ## Useful links
