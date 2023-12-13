@@ -1,11 +1,12 @@
 
-## TheNimblegeek
+# TheNimblegeek
 
 <div align="">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="250" height="200"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="TheNimblegeek" style="max-width: 100%">
 </div> <br>
 
-Hey, I'm Jonas Achouri Sihlén and I'm a guy who loves to learn how to build cool projects, be productive, and ultimately craft awesome software. 
+Hey, I'm Jonas Achouri Sihlén, 
+and I'm a guy who loves to learn how to build cool projects, be productive, and ultimately craft awesome software. 
 
 ### Day job and writings
  <div align="">
