@@ -5,8 +5,13 @@
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/forest_sunset.png" alt="TheNimblegeek" style="max-width: 100%; max-height: 50px;">
 </div> <br>
 
-Hey, I'm Jonas Achouri Sihlén, 
+Hey, I'm Jonas Achouri Sihlén, casually called TheNimblegeek in tech and movement circles. I work as a platform engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. My tech toolbox includes Kubernetes, Ansible and Linux. Flavoured with proficiency with 
 and I'm a guy who loves to learn how to build cool projects, be productive, and ultimately craft awesome software. 
+
+
+## Useful links
+--
+
 
 ### Day job and writings
  <div align="">
