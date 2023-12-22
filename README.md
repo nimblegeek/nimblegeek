@@ -9,7 +9,7 @@ Hey, I'm Jonas Achouri Sihlén, casually called TheNimblegeek. I work as a Platf
 
 I'm a guy who loves to learn how to solve complex problems. Great software and infrastructure can be solutions to lots of problems but not all. I started to learn to code at 39 while raising a family of 5 and growing as an online writer. Writing online has helped me alot, not only in my career growth, but in my private life as well.
 
-Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. I've decided to focus on growing as an online writer alongside my 9-5. As I'm exploring wider interesting topics I write about them to distill them to useful insights for anyone to take part of. This is a lifelong journey.
+Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. After all, writing is the thing we do daily as developers. Whether you do indie-hacking, open-source contributions or working in a multinational remote team, writing is a vital skill.
 
 
 ## Useful links
