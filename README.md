@@ -7,7 +7,7 @@
 
 Hey, I'm Jonas Achouri Sihlén, casually called TheNimblegeek. I work as a Platform Engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. My tech toolbox is being sharpened around Automation, Python, Infrastructure as Code, and Kubernetes. I'm also comfortable navigating in a Linux environment.
 
-I'm a guy who loves to learn how to solve complex problems. Great software and infrastructure can be solutions to lots of problems but not all. I started to learn to code at 39 while raising a family of 5 and growing as an online writer. Writing online has helped me alot, not only in my career growth, but in my private life as well.
+I'm a guy who loves to learn how to solve complex problems. Great software and infrastructure can be solutions to lots of problems but not all. I started to learn to code at 39 while nurturing a family of 5 alongside the mission to grow as an online writer. Writing online has helped me a lot, not only in my career growth, but in my private life as well.
 
 Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. After all, writing is the thing we do daily as developers. Whether you do indie-hacking, open-source contributions or working in a multinational remote team, writing is a vital skill.
 
