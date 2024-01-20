@@ -5,7 +5,9 @@
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/forest_sunset.png" alt="TheNimblegeek" style="max-width: 100%; max-height: 50px;">
 </div> <br>
 
-Hey there fellow geek! I'm Jonas, casually called TheNimblegeek. I work as a Platform Engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. My tech toolbox is being sharpened through my curiousity. Currently focused on Automation, Python, Infrastructure as Code, and Kubernetes. I'm also getting comfortable navigating in a Linux environment.
+Hey there fellow geek! I'm Jonas, casually called TheNimblegeek. I work as a Platform Engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. I write [weekly letters](https://thenimblegeek.ck.page/newsletter) for other curious learners who want to learn how to use technology in a useful manner, and hopefully earn money along the way.
+
+My tech toolbox is being sharpened through my curiousity. Currently focused on Automation, Python, Infrastructure as Code, and Kubernetes. I'm also getting comfortable navigating in a Linux environment.
 
 I'm a guy who realized that I feel good when creating useful stuff. Either if it is for my own use or for others. Great software and infrastructure can be solutions to lots of problems but not all. I started to learn to code at 39 while nurturing a family of 5 alongside the mission to grow as an online writer. Writing online has helped me a lot, not only in my career growth, but in my private life as well.
 
@@ -28,6 +30,4 @@ Writing is not only a passion of mine, but a necessity for me to think and solve
 Besides playing and learning with my three kids I love spending time nurturing my body, mind and soul with: <br>
 [Programming](https://en.wikipedia.org/wiki/Computer_programming), [JiuJitsu](https://en.wikipedia.org/wiki/Jujutsu), [Movement](https://www.idoportal.com/culture/), [Writing](https://thenimblegeek.ck.page/join), [Playing the violin,](https://en.wikipedia.org/wiki/Violin), Hiking & running, Reading books...
 
-## My stack
--- 
 
