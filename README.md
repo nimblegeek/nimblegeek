@@ -5,11 +5,11 @@
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/forest_sunset.png" alt="TheNimblegeek" style="max-width: 100%; max-height: 50px;">
 </div> <br>
 
-Hey, I'm Jonas Achouri Sihlén, casually called TheNimblegeek. I work as a Platform Engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. My tech toolbox is being sharpened around Automation, Python, Infrastructure as Code, and Kubernetes. I'm also comfortable navigating in a Linux environment.
+Hey there fellow geek! I'm Jonas, casually called TheNimblegeek. I work as a Platform Engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. My tech toolbox is being sharpened through my curiousity. Currently focused on Automation, Python, Infrastructure as Code, and Kubernetes. I'm also getting comfortable navigating in a Linux environment.
 
-I'm a guy who loves to learn how to solve complex problems. Great software and infrastructure can be solutions to lots of problems but not all. I started to learn to code at 39 while nurturing a family of 5 alongside the mission to grow as an online writer. Writing online has helped me a lot, not only in my career growth, but in my private life as well.
+I'm a guy who realized that I feel good when creating useful stuff. Either if it is for my own use or for others. Great software and infrastructure can be solutions to lots of problems but not all. I started to learn to code at 39 while nurturing a family of 5 alongside the mission to grow as an online writer. Writing online has helped me a lot, not only in my career growth, but in my private life as well.
 
-Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. After all, writing is the thing we do daily as developers. Whether you do indie-hacking, open-source contributions or working in a multinational remote team, writing is a vital skill.
+Writing is not only a passion of mine, but a necessity for me to think and solve problems through life. After all, writing is the thing we do daily as developers. Whether you do indie-hacking, open-source contributions or working in a multinational remote team, writing is a vital skill. And that habit is what pushes me forward in my journey of self-education in tech.
 
 
 ## Useful links
