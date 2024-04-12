@@ -5,7 +5,17 @@
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/firewatch.png" style="max-width: 1000px; max-height: 150px;">
 </div> <br>
 
+Hey there, I'm Jonas. I am a curious guy who is trying to make my developer experience more awesome and enough challenging at the same time. 
+I am driven by building useful stuff, mostly using technology as leverage. 
 
+
+## Fun facts
+- I like to [write](https://thenimblegeek.ck.page/newsletter)
+- I like to [move](https://www.idoportal.com/culture/)
+- I like to [rol](https://en.wikipedia.org/wiki/Jujutsu)
+- I married a wife
+- We got a bunch of kids, at least 3
+- I play some instruments since I love music
 
 ## Useful links
 
@@ -23,8 +33,8 @@
 ## Hobbies & interests
 Besides playing and learning with my three kids I love spending time nurturing my body, mind and soul with: <br>
 - [Programming](https://en.wikipedia.org/wiki/Computer_programming),
-- [JiuJitsu](https://en.wikipedia.org/wiki/Jujutsu)
-- [Movement](https://www.idoportal.com/culture/)
+- 
+- 
 - [Writing](https://thenimblegeek.ck.page/join)
 - [Playing the violin,](https://en.wikipedia.org/wiki/Violin)
 - Hiking & running, Reading books...
