@@ -18,6 +18,10 @@ I am driven by building useful stuff, mostly using technology as leverage.
 - I play some instruments and I love music
 
 ## Useful links
+[Teach Yourself CS](https://teachyourselfcs.com/)
+[CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+[Operating Systems-Three Easy Pieces](https://www.amazon.se/-/en/Remzi-H-Arpaci-Dusseau/dp/198508659X)
+[Computer Systems-A programmers perspective](https://www.amazon.com/gp/product/013409266X/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
 ## Books I like to re-read
 
@@ -29,14 +33,4 @@ I am driven by building useful stuff, mostly using technology as leverage.
 - [Surely You're Joking Mr. Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 - [Life 3.0](https://www.amazon.se/-/en/Max-Tegmark/dp/1101946598)
 - [It doesn't have to be crazy at work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780)...
-
-## Hobbies & interests
-Besides playing and learning with my three kids I love spending time nurturing my body, mind and soul with: <br>
-- [Programming](https://en.wikipedia.org/wiki/Computer_programming),
-- 
-- 
-- [Writing](https://thenimblegeek.ck.page/join)
-- [Playing the violin,](https://en.wikipedia.org/wiki/Violin)
-- Hiking & running, Reading books...
-
 
