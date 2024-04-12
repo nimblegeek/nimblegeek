@@ -2,7 +2,7 @@
 # TheNimblegeek
 
 <div align="">
-  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/forest_sunset.png" alt="TheNimblegeek" style="max-width: 100%; max-height: 50px;">
+  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/firewatch.png" alt="TheNimblegeek" style="max-width: 100%; max-height: 50px;">
 </div> <br>
 
 Hey there fellow geek! I'm Jonas, casually called TheNimblegeek. I work as a Platform Engineer in the financial service industry and have a strong passion for developer experience, problem solving and continuous learning. I write [weekly letters](https://thenimblegeek.ck.page/newsletter) for other curious learners who want to learn how to use technology in a useful manner, and hopefully earn money along the way.
