@@ -8,23 +8,21 @@
 Hey there, I'm Jonas. I am a curious guy who is trying to make my developer experience more awesome and enough challenging at the same time. 
 I am driven by building useful stuff, mostly using technology as leverage. 
 
-
-## Fun facts
+### Fun facts
 - I like to [write](https://thenimblegeek.ck.page/newsletter)
 - I like to [move](https://www.idoportal.com/culture/)
 - I like to [rol](https://en.wikipedia.org/wiki/Jujutsu)
-- I married a woman 
+- I married a beautiful woman 
 - We got a bunch of kids, at least 3
 - I play some instruments and I love music
 
-## Useful links
+### Useful links
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [Operating Systems-Three Easy Pieces](https://www.amazon.se/-/en/Remzi-H-Arpaci-Dusseau/dp/198508659X)
 - [Computer Systems-A programmers perspective](https://www.amazon.com/gp/product/013409266X/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 
-## Books I like to re-read
-
+### Books I like to re-read
 - [The Bible](https://www.bible.com/), 
 - [Antifragility](https://www.amazon.se/-/en/Nassim-Nicholas-Taleb/dp/0812979680)
 - [Incerto series](https://www.amazon.com/Incerto-5-book-series/dp/B07WZK6Z9N)
