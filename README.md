@@ -2,7 +2,7 @@
 # TheNimblegeek
 
 <div align="">
-  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/firewatch.png" style="max-width: 500px; max-height: 150px;">
+  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/firewatch.png" style="max-width: 1000px; max-height: 150px;">
 </div> <br>
 
 
