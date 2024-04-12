@@ -2,19 +2,12 @@
 # TheNimblegeek
 
 <div align="">
-  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/firewatch.png" alt="TheNimblegeek" style="max-width: 100%; max-height: 100%;">
+  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/firewatch.png" alt="TheNimblegeek" style="max-width: 200%; max-height: 100%;">
 </div> <br>
 
 
 
 ## Useful links
--
-
-
-## Platform presence
-- [Posting on X](https://twitter.com/nimblegeek), 
-- [Sharing thoughts on LinkedIn](https://www.linkedin.com/in/jonasasihlen/),
-- [Writing on Medium](https://nimblegeek.medium.com/)
 
 ## Books I like to re-read
 
