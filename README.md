@@ -13,7 +13,7 @@ I am driven by building useful stuff, mostly using technology as leverage.
 - I like to [write](https://thenimblegeek.ck.page/newsletter)
 - I like to [move](https://www.idoportal.com/culture/)
 - I like to [rol](https://en.wikipedia.org/wiki/Jujutsu)
-- I married a wife 
+- I married a woman 
 - We got a bunch of kids, at least 3
 - I play some instruments and I love music
 
