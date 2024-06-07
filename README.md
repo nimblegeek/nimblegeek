@@ -9,7 +9,7 @@ Hey there, I'm Jonas. I am a curious guy who is trying to make things on the int
 I am driven by building useful stuff, mostly using technology as leverage. 
 
 ### Fun facts
-- I like to [write](https://thenimblegeek.ck.page/newsletter)
+- I like to [write](https://thenimblegeek.ck.page/)
 - I like to [move](https://www.idoportal.com/culture/)
 - I like to [rol](https://en.wikipedia.org/wiki/Jujutsu)
 - I married a beautiful woman 
