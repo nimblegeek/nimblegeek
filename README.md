@@ -2,7 +2,7 @@
 # TheNimblegeek
 
 <div align="">
-  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="auto" height="90">
+  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="auto" height="150">
 </div> <br>
 
 Hey there, I'm Jonas. I am a curious guy who is trying to make things on the internet and learn more about what makes a great developer experience. Ultimately I am geeking out on platforms and developer workflows mostly. I don't hold a CS, but I have been curious enough to work in tech full-time. It turned out to be more fun than trying to balance financial statements. 
