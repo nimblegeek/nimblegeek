@@ -3,10 +3,12 @@
 
 <div align="">
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="auto" height="450">
+
+  Hey there, I'm Jonas. I am a curious guy who is trying to make things on the internet and learn more about what makes a great developer experience. Ultimately I am geeking out on platforms and developer workflows mostly. I don't hold a CS, but I have been curious enough to work in tech full-time. It turned out to be more fun than trying to balance financial statements. 
+I am driven by building useful stuff, mostly using technology as leverage. 
 </div> <br>
 
-Hey there, I'm Jonas. I am a curious guy who is trying to make things on the internet and learn more about what makes a great developer experience. Ultimately I am geeking out on platforms and developer workflows mostly. I don't hold a CS, but I have been curious enough to work in tech full-time. It turned out to be more fun than trying to balance financial statements. 
-I am driven by building useful stuff, mostly using technology as leverage. 
+
 
 ### Fun facts
 - I like to [write](https://thenimblegeek.ck.page/)
