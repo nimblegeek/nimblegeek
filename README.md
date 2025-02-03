@@ -17,7 +17,7 @@ I am driven by building useful stuff, mostly using technology as leverage.
 - I like to [move](https://www.idoportal.com/culture/)
 - I like to [rol](https://en.wikipedia.org/wiki/Jujutsu)
 - I married a beautiful woman 
-- We got a bunch of kids, at least 3
+- We got a bunch of kids
 - I play some instruments and I love music
 
 ### Useful links
