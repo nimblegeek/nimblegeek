@@ -2,7 +2,7 @@
 # TheNimblegeek
 
 <div align="">
-  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="600" height="450">
+  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="auto" height="450">
 
 </div> <br>
 
