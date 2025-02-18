@@ -1,9 +1,8 @@
 
 # TheNimblegeek
 
-<div align="">
+<div align="center">
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="auto" height="450">
-
 </div> <br>
 
 ## Timeline highlights
