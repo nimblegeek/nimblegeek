@@ -1,5 +1,5 @@
 
-# TheNimblegeek
+<h1 align="center">TheNimblegeek</h1>
 
 <div align="center">
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="auto" height="450">
