@@ -28,8 +28,5 @@ I am driven by building useful stuff, mostly using technology as leverage. My ge
 - [Antifragility](https://www.amazon.se/-/en/Nassim-Nicholas-Taleb/dp/0812979680)
 - [Incerto series](https://www.amazon.com/Incerto-5-book-series/dp/B07WZK6Z9N)
 - [Homo Ludens](https://www.amazon.se/-/en/Johan-Huizinga/dp/1621389995)
-- [A Time For Everything](https://www.amazon.com/Time-Everything-Karl-Ove-Knausgaard/dp/098003308X)
-- [Surely You're Joking Mr. Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
-- [Life 3.0](https://www.amazon.se/-/en/Max-Tegmark/dp/1101946598)
 - [It doesn't have to be crazy at work](https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780)...
 
