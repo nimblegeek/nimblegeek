@@ -2,7 +2,7 @@
 <h1 align="center">TheNimblegeek</h1>
 
 <div align="center">
-  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="auto" height="auto">
+  <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg">
 </div> <br>
 
 ## Timeline highlights
