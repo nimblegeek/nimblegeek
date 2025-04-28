@@ -1,7 +1,7 @@
 
 <h1 align="center">TheNimblegeek</h1>
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="210px" height="210px">
 </div> <br>
 
