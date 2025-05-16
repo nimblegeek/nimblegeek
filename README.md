@@ -19,6 +19,7 @@ I am driven by building useful stuff, mostly using technology as leverage. My ge
 
 ### Useful links
 - [Teach Yourself CS](https://teachyourselfcs.com/)
+- [boot.dev](https://www.boot.dev/)
 - [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [Operating Systems-Three Easy Pieces](https://www.amazon.se/-/en/Remzi-H-Arpaci-Dusseau/dp/198508659X)
 - [Computer Systems-A programmers perspective](https://www.amazon.com/gp/product/013409266X/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
