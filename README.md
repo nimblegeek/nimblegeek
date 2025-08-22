@@ -5,7 +5,7 @@
   <img src="https://github.com/nimblegeek/nimblegeek/blob/main/IMG_2787.jpg" width="210px" height="210px">
 </div> <br>
 
-Hey there, I'm Jonas. I am a curious guy who is trying to make things on the internet and learn more about what makes a great developer experience. Ultimately I am geeking out on platforms and developer workflows mostly. I don't hold a CS, but I have been curious enough to work in tech full-time. It turned out to be enough fun to keep going for 15+ years in various roles. 
+Hey there, I'm Jonas. I am a platform engineer and independent freelancer. Ultimately I am geeking out on platforms and niched tooling to make  businesses more profitable and nimble. I don't hold a CS, but I have been curious enough to work in tech full-time. It turned out to be enough fun to keep going for 15+ years in various roles. 
 
 I am driven by building useful stuff, mostly using technology as leverage. My general view on technology is that we should be using it rather being used by it.
 
